@@ -15,7 +15,7 @@
   <v-row style="background-color: #f3e357;font-size: 18px">
     <v-spacer/>
     <v-col cols="4">
-      <img src="https://raw.githubusercontent.com/nervicgra/nervicgra.github.io/main/img/Captura.png" alt="a" height="400px">
+      <img src="https://raw.githubusercontent.com/nervicgra/nervicgra.github.io/master/src/img/Captura.PNG" alt="a" height="400px">
     </v-col>
     <v-col cols="4">
       <p>Nuestra sede principal se encuentra estratégicamente ubicada en las afueras de Madrid, en el Polígono nº26 de la Calle Cabril, lo que nos permite ofrecer un servicio eficiente y rápido en toda la ciudad y sus alrededores.</p>

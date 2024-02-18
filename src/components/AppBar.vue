@@ -5,7 +5,7 @@ import {RouterLink} from "vue-router";
 
 <template>
   <v-app-bar height="140px">
-    <img src="https://raw.githubusercontent.com/nervicgra/nervicgra.github.io/main/img/LogoTaxi.png" alt="" height="100px" class="pl-4">
+    <img src="https://raw.githubusercontent.com/nervicgra/nervicgra.github.io/master/src/img/LogoTaxi.png" alt="" height="100px" class="pl-4">
 
     <RouterLink to="/">
       <v-btn class="font-weight-bold" height="50px" style="font-size: 30px" :ripple="false">
